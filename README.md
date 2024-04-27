@@ -5,7 +5,7 @@ Welcome to the repository for the blog website! This project utilizes React.js, 
 
 ## Overview
 
-This project is a blog website that leverages the power of React.js for the frontend, WordPress as the content management system, GraphQL for querying data efficiently, and Docker for containerization. The combination of these technologies results in a performant, scalable, and maintainable blogging platform.
+This project is a blog website that leverages the power of React.js for the frontend, GraphQL for querying data efficiently, and Docker for containerization. The combination of these technologies results in a performant, scalable, and maintainable blogging platform.
 
 ## Features
 
