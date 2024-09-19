@@ -1,6 +1,6 @@
 # My Blog Website
 
-Welcome to the repository for the blog website! This project utilizes React.js, WordPress, GraphQL, and Docker to create a modern and dynamic blogging platform.
+Welcome to the repository for the blog website! This project uses React.js, WordPress, GraphQL, and Docker to create a modern and dynamic blogging platform.
 
 
 ## Overview
